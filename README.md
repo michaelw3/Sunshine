@@ -1,2 +1,2 @@
 # Sunshine
-wether app -udacity
+weather app -udacity
